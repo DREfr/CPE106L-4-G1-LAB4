@@ -1,0 +1,6 @@
+test
+of
+file
+open
+read
+line 6
